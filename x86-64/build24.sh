@@ -54,8 +54,9 @@ PACKAGES="$PACKAGES luci-i18n-ttyd-zh-cn"
 PACKAGES="$PACKAGES luci-i18n-passwall-zh-cn"
 PACKAGES="$PACKAGES luci-app-openclash"
 PACKAGES="$PACKAGES luci-app-udpxy"
+PACKAGES="$PACKAGES luci-app-ddns-go"
 PACKAGES="$PACKAGES luci-i18n-udpxy-zh-cn"
-PACKAGES="$PACKAGES luci-i18n-homeproxy-zh-cn"
+PACKAGES="$PACKAGES luci-i18n-ddns-go-zh-cn"
 PACKAGES="$PACKAGES openssh-sftp-server"
 # ======== shell/custom-packages.sh =======
 # 合并imm仓库以外的第三方插件
